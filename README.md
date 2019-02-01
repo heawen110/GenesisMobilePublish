@@ -12,7 +12,7 @@ Genesis Mobile Android app is released on 31.01.2019
 
 In the first version, we build the whole infrastructure of Genesis mobile application, which includes three parts: **Smart Contract Client**, **Chat**, **Crypto Wallet**.
 
-#### Current Known Issue
+#### Current Known Issues
 
 First of all, our server is still in constructing, in our alpha test, we just use simple server withoout load balance, we will continuing improve the connection.
 
